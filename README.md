@@ -1,5 +1,5 @@
 # laundry management system
-# feature 2
+# feature 3
 ---
 ## Using Tech:
 
