@@ -1,5 +1,6 @@
 # laundry management system
 # feature 3
+# Propietari Anna Escribano
 # Colaborador Anna Escribano
 ---
 ## Using Tech:
